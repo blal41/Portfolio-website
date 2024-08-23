@@ -1,28 +1,29 @@
 import React from "react";
-import employeeMSImage from "../assets/pixel pulse.png";
-import bookMSImage from "../assets/mern auth.png";
+import pixelpulseImage from "../assets/pixel pulse.png";
+import mernuthImage from "../assets/mern auth.png";
+import portfolioimage from '../assets/portfolio website.png'
 
 const projects = [
   {
     id: 1,
     name: "PixelPulse Mobile web Application",
     technologies: "Reactjs , JavaScript , CSS ,Firebase",
-    image: employeeMSImage,
+    image: pixelpulseImage,
     github: "https://github.com/blal41/PixelPulse-mobile-Web-Application",
   },
   {
     id: 2,
     name: "Mern-Auth Application",
     technologies: "MERN Stack",
-    image: bookMSImage,
+    image: mernuthImage,
     github: "https://github.com/blal41/Mern-Auth-Web-app",
   },
   {
     id: 3,
     name: "PortFolio",
     technologies: "Reactjs , JavaScript",
-    image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    image: portfolioimage,
+    github: "https://github.com/blal41/Portfolio-website",
   },
 ];
 
