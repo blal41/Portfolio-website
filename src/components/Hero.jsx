@@ -20,7 +20,7 @@ const Hero = () => {
           , Full-Stack Web Developer
         </h1>
         <p className='mt-4 text-lg md:text-xl text-gray-300'>
-          I specialize in building modern and responsive web applications.
+        Welcome to my portfolio website! I am a passionate full-stack developer with a focus on building modern and responsive web applications. With a strong foundation in both frontend and backend technologies, 
         </p>
         <div className='mt-8'>
           <a
